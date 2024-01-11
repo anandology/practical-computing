@@ -4,8 +4,6 @@ _Practical Computing_ is a course to learn practical computing tools that are us
 
 ## Outline
 
-The following are the broad skills
-
 - Proficiency with Data and Plotting Graphs
 - Literate Programming to create live documents/articles
 - Publishing on web
