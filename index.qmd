@@ -1,0 +1,6 @@
+---
+title: "Practical Computing"
+---
+
+Welcome to _Practical Computing_, a course to learn practical computing tools to make you productive in the academic life.
+

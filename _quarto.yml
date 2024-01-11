@@ -1,0 +1,29 @@
+project:
+  type: website
+  render:
+      - "*.qmd"
+      - "*.ipynb"
+
+
+website:
+  title: "Practical Computing"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+  sidebar:
+    style: docked
+    search: true
+    contents:
+      - session1.ipynb
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
